@@ -6,7 +6,7 @@ Birkaç aydır geliştirdiğim SA-MP Client'i paylaşıyorum, Herkese iyi kullan
 - Kurulum talimatları, [discord](https://discord.gg/m9tSxKsuqM) adresimizde bulunmaktadır.
 - Takıldığınız yerler olursa [discord](https://discord.gg/m9tSxKsuqM) üzerinden sorabilirsiniz.
 
-[RicalZ Client](https://github.com/RicalZ/RicalZ-Client/blob/main/RicalZ%20Client.apk?raw=true) indir.
+[RicalZ Client](https://github.com/RicalZ/RicalZ-Client/raw/main/RicalZ%20Client.apk) indir.
 
 [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) indir.
 
