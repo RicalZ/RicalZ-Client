@@ -15,3 +15,6 @@ Birkaç aydır geliştirdiğim SA-MP Client'i paylaşıyorum, Herkese iyi kullan
 - [YouTube](https://youtube.com/channel/UC-KFBvoXSW9f5Q5kM24iDqw) kanalıma abone olabilirsiniz.
 
 - [Discord](https://discord.gg/m9tSxKsuqM) sunucusuna katılabilirsiniz.
+
+- [VirusTotal](https://www.virustotal.com/gui/file/071096d95722cb953ea311311346eab6f0911565567d438f60d399f21e30fefd) linkini kontrol edebilirsiniz, Herhangi bir zararlı yazılım yoktur.
+- 
